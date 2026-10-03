@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Vaibhav Jadaun
 
-### 🚀 B.Tech CSE Student | Aspiring Data Analyst | Java & Python Developer
+### 🚀 B.Tech CSE Student | Aspiring Data Analyst | DSA java Learner
 
 📍 India 🇮🇳
 
-I'm a passionate Computer Science student interested in Data Analytics, Problem Solving and Software Development.
+I'm a passionate Computer Science student interested in Data Analytics and Problem Solving .
 
 - 🔭 Currently focusing on Data Analytics and Python Projects.
 - 🌱 Learning Python, Pandas, NumPy, SQL, Power BI and Tableau.
@@ -22,13 +22,13 @@ I'm a passionate Computer Science student interested in Data Analytics, Problem 
 
 <p align="left">
 <a href="https://www.linkedin.com/in/vaibhav-jadaun-813322400/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+ 
 </a>
 <a href="mailto:vaibhavjadaun1234@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://github.com/vaibhavjadaun1234-cell">
-<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+ 
 </a>
 </p>
 
