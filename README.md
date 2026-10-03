@@ -1,47 +1,36 @@
 # 👋 Hi, I'm Vaibhav Jadaun
 
-### 🚀 B.Tech CSE Student | Aspiring Data Analyst | DSA java Learner
+### 🚀 B.Tech CSE Student | Aspiring Data Analyst | Java & Python Developer
 
 📍 India 🇮🇳
 
-I'm a passionate Computer Science student interested in Data Analytics and Problem Solving .
+I'm a passionate Computer Science student interested in Data Analytics, Problem Solving and Technology.
 
-- 🔭 Currently focusing on Data Analytics and Python Projects.
+- 🔭 Currently focusing on Data Analytics Projects.
 - 🌱 Learning Python, Pandas, NumPy, SQL, Power BI and Tableau.
 - 💻 Practicing Data Structures and Algorithms using Java.
 - 📊 Interested in Data Visualization and Business Intelligence.
-- 🌐 Familiar with HTML, CSS and JavaScript (Frontend Development).
+- 🌐 Familiar with HTML and CSS (Frontend Development).
 - 🎯 Preparing for Data Analytics Internships and Placements.
-- 🤝 Open to learning, collaboration and new opportunities.
-
-📧 **Email:** [vaibhavjadaun1234@gmail.com](mailto:vaibhavjadaun1234@gmail.com)
+- 🤝 Open to learning and collaboration.
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Socials
 
-<p align="left">
-<a href="https://www.linkedin.com/in/vaibhav-jadaun-813322400/">
- 
-</a>
-<a href="mailto:vaibhavjadaun1234@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/vaibhavjadaun1234-cell">
- 
-</a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-jadaun-813322400/)
 
 ---
 
 ## 💻 Tech Stack
 
 ### 👨‍💻 Programming Languages
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ### 📊 Data Analytics
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=matplotlib&logoColor=black)
@@ -51,14 +40,14 @@ I'm a passionate Computer Science student interested in Data Analytics and Probl
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 
 ### 🌐 Frontend Development
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white)
 
 ### 🛠️ Tools & Technologies
+
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -99,15 +88,17 @@ I'm a passionate Computer Science student interested in Data Analytics and Probl
 ## 🚀 Featured Projects
 
 ### 📊 Smart Expense Analytics Dashboard
+
 - Personal income and expense analysis.
 - Financial KPIs and spending patterns.
 - Data visualization and analytical insights.
 - Technologies: Python, Pandas, NumPy, SQL and Chart.js.
 
 ### 💻 Java & DSA Practice
+
 - Practicing Data Structures and Algorithms.
-- Solving coding problems.
-- Improving problem-solving skills using Java.
+- Solving coding problems using Java.
+- Improving problem-solving skills.
 
 ---
 
