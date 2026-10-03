@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vaibhav Jadaun
 
-### 🚀 B.Tech CSE Student | Aspiring Data Analyst | Java & Python Developer
+### 🚀 B.Tech CSE Student | Aspiring Data Analyst | DSA Java Learner
 
 📍 India 🇮🇳
 
