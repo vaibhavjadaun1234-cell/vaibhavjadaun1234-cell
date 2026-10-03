@@ -64,26 +64,14 @@ I'm a passionate Computer Science student interested in Data Analytics, Problem 
 ### 💻 Most Used Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavjadaun1234-cell&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ---
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=vaibhavjadaun1234-cell&theme=tokyonight&no-frame=true&column=4" />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhavjadaun1234-cell&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</p>
-
----
+ 
 
 ## 🚀 Featured Projects
 
@@ -109,8 +97,7 @@ I'm a passionate Computer Science student interested in Data Analytics, Problem 
 </p>
 
 ---
-
-## 👀 Profile Visitors
+ 
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=vaibhavjadaun1234-cell&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
