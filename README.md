@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vaibhav Jadaun
 
-🚀 A Pre Final Year B.Tech CSE Student | Java & Python Developer | Data Analytics Enthusiast from India
+🚀 A Pre Final Year B.Tech CSE Student | Java & Python Learner | Data Analytics Enthusiast from India
 
 📧 Email Me: **vaibhavjadaun1234@gmail.com** for Collaboration, Projects or Anything Else.
 
