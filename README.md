@@ -99,13 +99,7 @@ I'm a passionate Computer Science student interested in Data Analytics, Problem 
 ---
  
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=vaibhavjadaun1234-cell&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
-</p>
-
----
-
-<p align="center">
+ 
 ### ⭐ Thanks for visiting my profile!
 ### 💡 Keep Learning | Keep Building | Keep Growing 🚀
 </p>
